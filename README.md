@@ -1,4 +1,4 @@
-# 👩‍💻 Mariana Oliveira
+# 👩‍💻 Mariana da Conceição de Oliveira
 
 Bem-vindo(a) ao meu GitHub! Sou estudante de desenvolvimento de software, apaixonada por tecnologia e por criar soluções com código.
 
@@ -6,9 +6,9 @@ Bem-vindo(a) ao meu GitHub! Sou estudante de desenvolvimento de software, apaixo
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de [Seu Curso] na [Sua Instituição]
+- 🎓 Estudante de Técnico em Informática na Senac-Catalão
 - 🔍 Interesse em Python, C++, Flutter e desenvolvimento de sistemas
-- 🌱 Atualmente estudando: Flutter e estruturas de dados
+- 🌱 Atualmente estudando: React e estruturas de dados
 - 💼 Buscando oportunidades para aplicar meus conhecimentos e crescer na área de TI
 
 ---
@@ -38,9 +38,8 @@ Bem-vindo(a) ao meu GitHub! Sou estudante de desenvolvimento de software, apaixo
 
 ## 📫 Como me encontrar
 
-- ✉️ E-mail: seuemail@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 🌐 Portfólio: [seusite.com](https://seusite.com)
+- ✉️ E-mail: mariana01oliveira27@gmail.com
+- 💼 [LinkedIn] www.linkedin.com/in/mariana-oliveira-224442333
 
 ---
 
